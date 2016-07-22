@@ -5,7 +5,7 @@
   
   
 ##Visual Studio Code
-  copy 'aiscript' directory to `<user home>/.vscode/extensions` folder and restart Code.)
+  copy 'aiscript' directory to `<user home>/.vscode/extensions` folder and restart Code
 
 
 ## Sublime Text 3
