@@ -9,7 +9,7 @@
 		<string>rive</string>
 	</array>
 	<key>name</key>
-	<string>AI-Script</string>
+	<string>AIScript</string>
 	<key>patterns</key>
 	<array>
 		<dict>
