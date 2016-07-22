@@ -13,7 +13,7 @@
     "contributes": {
         "languages": [{
             "id": "aiscript",
-            "aliases": ["AI-Script", "aiscript"],
+            "aliases": ["AIScript", "aiscript"],
             "extensions": [".ss",".ais",".rive"],
             "configuration": "./aiscript.configuration.json"
         }],
