@@ -1,0 +1,26 @@
+{
+    "name": "aiscript",
+    "displayName": "AIScript",
+    "description": "AIScript chatter bot engine syntax highlighter",
+    "version": "0.0.1",
+    "publisher": "cnstntn-kndrtv",
+    "engines": {
+        "vscode": "^1.0.0"
+    },
+    "categories": [
+        "Languages"
+    ],
+    "contributes": {
+        "languages": [{
+            "id": "aiscript",
+            "aliases": ["AI-Script", "aiscript"],
+            "extensions": [".ss",".ais",".rive"],
+            "configuration": "./aiscript.configuration.json"
+        }],
+        "grammars": [{
+            "language": "aiscript",
+            "scopeName": "text.aiscript",
+            "path": "./syntaxes/aiscript.tmLanguage"
+        }]
+    }
+}
