@@ -6,10 +6,10 @@
 	<array>
 		<string>ss</string>
 		<string>ais</string>
-		<string>rs</string>
+		<string>rive</string>
 	</array>
 	<key>name</key>
-	<string>SuperScript.js</string>
+	<string>AI-Script</string>
 	<key>patterns</key>
 	<array>
 		<dict>
@@ -619,7 +619,7 @@
 		</dict>
 	</dict>
 	<key>scopeName</key>
-	<string>text.superscript</string>
+	<string>text.aiscript</string>
 	<key>uuid</key>
 	<string>7f6e725c-53ff-47a6-b4eb-a9d9d12e2570</string>
 </dict>
