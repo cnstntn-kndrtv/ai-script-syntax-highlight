@@ -25,3 +25,7 @@
 
 ##Other editors (ACE, CodeMirror)
   use AIScript.tmLanguage
+
+ACE:
+https://github.com/ajaxorg/ace/wiki/Importing-.tmtheme-and-.tmlanguage-Files-into-Ace
+
